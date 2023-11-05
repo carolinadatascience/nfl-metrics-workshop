@@ -1,6 +1,6 @@
-<h1 align="center">Workshop Name</h1>
+<h1 align="center">NFL Sports Metrics Workshop</h1>
 
-<p align="center"><b><i>Created by @<your_github_username_here!!> for Carolina Analytics and Data Science on [[DATE HERE]]</b></i></p>
+<p align="center"><b><i>Created by @<bcscc!!> for Carolina Analytics and Data Science on [[November 4, 2023]]</b></i></p>
 
  
 Here, please provide a **detailed**, *high quality* description of your workshop. Please include markdown formatting such as bold and italics to accentuate certain points. If you are unaware about how markdown formatting works, check out this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
@@ -17,11 +17,7 @@ In this section, include necessary software that needs to be installed. This inc
 
 - **This workshop uses the Python programming language.** If you do not already have Python installed on your computer, install the latest version for your operating system [here](https://www.python.org/downloads/).
 
-- **This workshop uses the R programming language.** If you do not already have R installed on your computer, install the latest version for your operating system [here](https://cloud.r-project.org).
-
 - This workshop will also use JupyterLab to run Jupyter Notebooks (with Python). Learn how to install JupyterLab [here](https://jupyter.org/install).
-
-- This workshop will also use RStudio to run R files. Learn how to install RStudio [here](https://posit.co/download/rstudio-desktop/).
 
 *Make sure to include any other software necessary for your workshop. **THIS INCLUDES PACKAGES!!!***
 
