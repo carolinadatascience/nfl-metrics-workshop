@@ -7,8 +7,6 @@ Here, please provide a **detailed**, *high quality* description of your workshop
 
 ## Getting Started
 
-This section is a very important section. Please include this and write a good, easy-to-follow description of how to get started with and download the necessary tools for this workshop. (DELETE THIS LINE).
-
 Here are some of the things you must do to get started with this workshop:
 
 ### Software Prerequisites
