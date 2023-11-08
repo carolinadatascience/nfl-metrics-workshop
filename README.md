@@ -13,7 +13,7 @@ Here are some of the things you must do to get started with this workshop:
 
 ### Software Prerequisites
 
-In this section, include necessary software that needs to be installed. This includes the Python programming language, Jupyter, R Studio, etc. Here are some example sentences to keep in your file:
+In this section, include necessary software that needs to be installed. This includes the Python programming language, Jupyter, etc. Here are some example sentences to keep in your file:
 
 - **This workshop uses the Python programming language.** If you do not already have Python installed on your computer, install the latest version for your operating system [here](https://www.python.org/downloads/).
 
