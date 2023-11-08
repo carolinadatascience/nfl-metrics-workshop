@@ -17,18 +17,8 @@ In this section, include necessary software that needs to be installed. This inc
 
 - This workshop will also use JupyterLab to run Jupyter Notebooks (with Python). Learn how to install JupyterLab [here](https://jupyter.org/install).
 
-*Make sure to include any other software necessary for your workshop. **THIS INCLUDES PACKAGES!!!***
-
 ### Clone this Repository
 
 To download the code of this workshop on your device, you need to clone this repository to your computer.
 
 If you are not familiar with how to use GitHub, using **GitHub Desktop** is an easy way to interact with and manage your repositories. Download GitHub Desktop [here](https://desktop.github.com), and feel free to follow [this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) tutorial to clone this repo to your computer.
-
-### Download the Data
-
-This section is optional, however it is needed when you have large datasets that must either be downloaded or accessed and is not already included in the repository. Provide a description of the dataset, a link to it, and attribution here.
-
-## Content Section
-
-Feel free to add anything you feel to be important in this section. This could be nothing, although you are encouraged you add explanations here if needed!
